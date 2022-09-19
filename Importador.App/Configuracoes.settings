@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Importador.App" GeneratedClassName="Configuracoes">
+  <Profiles />
+  <Settings>
+    <Setting Name="CaminhoArquivo" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">D:\\testeee\\ca</Value>
+    </Setting>
+    <Setting Name="UrlApi" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://localhost:7170/api/Calcular</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
